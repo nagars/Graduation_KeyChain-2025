@@ -7,9 +7,8 @@ I used Krita 5.2 to modify / create PNG images and used KiCad's image converter 
 ## Final Design
 1. KTHDesign3 - Final Design with better utilization of space using larger symbols / footprint
 
-<img width="1723" height="892" alt="KthDesignF kicad_pcb_3" src="https://github.com/user-attachments/assets/763a4c39-8ba4-4e61-a253-3c885b77f01a" />
-<img width="1723" height="892" alt="KthDesignB kicad_pcb_3" src="https://github.com/user-attachments/assets/6b6352ea-e8ab-4ae4-8585-eea1b1ad3090" />
-
+<img width="1723" height="892" alt="KthDesignF kicad_pcb_3" src="https://github.com/user-attachments/assets/6e457260-3c44-4249-92d6-7e726441d361" />
+<img width="1723" height="892" alt="KthDesignB kicad_pcb_3" src="https://github.com/user-attachments/assets/c126dbba-775d-4b2a-a1e7-a43d35a85e84" />
 
 ## Previous Designs
 1. KTHDesign - Initial design
