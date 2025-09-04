@@ -4,7 +4,7 @@ I made it for my friends and myself to celebrate graduating with our Msc. degree
 
 I used Krita 5.2 to modify / create PNG images and used KiCad's image converter module to copy them into the PCB layout editor.
 
-I used [PCBWay]([url](https://www.pcbway.com/)) to manufacture the PCB. They did an excellent job and I highly recommend them!
+I used [PCBWay](https://www.pcbway.com/) to manufacture the PCB. They did an excellent job and I highly recommend them!
 
 ![PXL_20250904_134657951~2](https://github.com/user-attachments/assets/b347a2ab-9d0a-427c-b7f2-d68134b9a875)
 
